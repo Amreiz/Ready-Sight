@@ -3,27 +3,57 @@
     "m_SelectedPackage": {
         "deviceId": "d406e82a",
         "name": "com.ReadySight.Readysight",
-        "processId": 31617,
+        "processId": 26868,
         "exited": true
     },
     "m_SelectedPriority": 0,
     "m_KnownPackagesForSerialization": [
         {
             "deviceId": "d406e82a",
+            "name": "net.oneplus.launcher",
+            "processId": 19887,
+            "exited": false
+        },
+        {
+            "deviceId": "d406e82a",
             "name": "com.ReadySight.Readysight",
-            "processId": 29227,
+            "processId": 4957,
             "exited": true
         },
         {
             "deviceId": "d406e82a",
             "name": "com.ReadySight.Readysight",
-            "processId": 29757,
+            "processId": 11214,
             "exited": true
         },
         {
             "deviceId": "d406e82a",
             "name": "com.ReadySight.Readysight",
-            "processId": 31617,
+            "processId": 16753,
+            "exited": true
+        },
+        {
+            "deviceId": "d406e82a",
+            "name": "com.ReadySight.Readysight",
+            "processId": 16755,
+            "exited": true
+        },
+        {
+            "deviceId": "d406e82a",
+            "name": "com.ReadySight.Readysight",
+            "processId": 16758,
+            "exited": true
+        },
+        {
+            "deviceId": "d406e82a",
+            "name": "com.ReadySight.Readysight",
+            "processId": 21264,
+            "exited": true
+        },
+        {
+            "deviceId": "d406e82a",
+            "name": "com.ReadySight.Readysight",
+            "processId": 26868,
             "exited": true
         }
     ],
@@ -60,7 +90,7 @@
         ]
     },
     "m_MemoryViewerState": {
-        "MemoryWindowHeight": 300.0,
+        "MemoryWindowHeight": 255.0,
         "MemoryWindowWidth": 170.0,
         "MemoryTypeEnabled": [
             true,
