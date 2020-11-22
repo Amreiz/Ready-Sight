@@ -1,29 +1,47 @@
 {
     "m_SelectedDeviceId": "d406e82a",
     "m_SelectedPackage": {
-        "deviceId": "d406e82a",
-        "name": "com.ReadySight.Readysight",
-        "processId": 31617,
-        "exited": true
+        "deviceId": "",
+        "name": "",
+        "processId": 0,
+        "exited": false
     },
     "m_SelectedPriority": 0,
     "m_KnownPackagesForSerialization": [
         {
             "deviceId": "d406e82a",
+            "name": "net.oneplus.launcher",
+            "processId": 19887,
+            "exited": false
+        },
+        {
+            "deviceId": "d406e82a",
             "name": "com.ReadySight.Readysight",
-            "processId": 29227,
+            "processId": 21436,
             "exited": true
         },
         {
             "deviceId": "d406e82a",
             "name": "com.ReadySight.Readysight",
-            "processId": 29757,
+            "processId": 26506,
             "exited": true
         },
         {
             "deviceId": "d406e82a",
             "name": "com.ReadySight.Readysight",
-            "processId": 31617,
+            "processId": 26510,
+            "exited": true
+        },
+        {
+            "deviceId": "d406e82a",
+            "name": "com.ReadySight.Readysight",
+            "processId": 30142,
+            "exited": true
+        },
+        {
+            "deviceId": "d406e82a",
+            "name": "com.ReadySight.Readysight",
+            "processId": 325,
             "exited": true
         }
     ],
