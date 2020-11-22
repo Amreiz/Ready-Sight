@@ -18,17 +18,30 @@
 
 using Google.XR.Cardboard;
 using UnityEngine;
+using System.Collections;
+using UnityEngine.XR.Management;
 
 /// <summary>
 /// Initializes Cardboard XR Plugin.
 /// </summary>
 public class CardboardStartup : MonoBehaviour
 {
+
+    //void StopXR()
+    //{
+    //    Debug.Log("Stopping XR...");
+
+    //    XRGeneralSettings.Instance.Manager.StopSubsystems();
+    //    XRGeneralSettings.Instance.Manager.DeinitializeLoader();
+    //    Debug.Log("XR stopped completely.");
+    //}
+
     /// <summary>
     /// Start is called before the first frame update.
     /// </summary>
     public void Start()
     {
+        //StartXR();
         // Configures the app to not shut down the screen and sets the brightness to maximum.
         // Brightness control is expected to work only in iOS, see:
         // https://docs.unity3d.com/ScriptReference/Screen-brightness.html.

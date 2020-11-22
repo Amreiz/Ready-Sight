@@ -1,2 +1,2 @@
 # ready-sight
-A project that aims to create a VR compatible application that trains amblyopic patients on depth perception.
+A research project that aims to develop a VR application that improves amblyopic patients eyesight by improving their depth perception, signal strengths and various other exercises.

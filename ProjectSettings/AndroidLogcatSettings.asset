@@ -1,10 +1,10 @@
 {
     "m_SelectedDeviceId": "d406e82a",
     "m_SelectedPackage": {
-        "deviceId": "d406e82a",
-        "name": "com.ReadySight.Readysight",
-        "processId": 26868,
-        "exited": true
+        "deviceId": "",
+        "name": "",
+        "processId": 0,
+        "exited": false
     },
     "m_SelectedPriority": 0,
     "m_KnownPackagesForSerialization": [
@@ -17,43 +17,31 @@
         {
             "deviceId": "d406e82a",
             "name": "com.ReadySight.Readysight",
-            "processId": 4957,
+            "processId": 21436,
             "exited": true
         },
         {
             "deviceId": "d406e82a",
             "name": "com.ReadySight.Readysight",
-            "processId": 11214,
+            "processId": 26506,
             "exited": true
         },
         {
             "deviceId": "d406e82a",
             "name": "com.ReadySight.Readysight",
-            "processId": 16753,
+            "processId": 26510,
             "exited": true
         },
         {
             "deviceId": "d406e82a",
             "name": "com.ReadySight.Readysight",
-            "processId": 16755,
+            "processId": 30142,
             "exited": true
         },
         {
             "deviceId": "d406e82a",
             "name": "com.ReadySight.Readysight",
-            "processId": 16758,
-            "exited": true
-        },
-        {
-            "deviceId": "d406e82a",
-            "name": "com.ReadySight.Readysight",
-            "processId": 21264,
-            "exited": true
-        },
-        {
-            "deviceId": "d406e82a",
-            "name": "com.ReadySight.Readysight",
-            "processId": 26868,
+            "processId": 325,
             "exited": true
         }
     ],
